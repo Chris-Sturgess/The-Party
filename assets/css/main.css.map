@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,eAAe;EACd,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;;AAEX,OAAO;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;;AAEd,WAAW;EACV,MAAM,EAAE,kBAA8B;EACtC,qBAAS;IACR,KAAK,ECZW,KAAK;IDarB,MAAM,EAAE,IAAI;IACZ,OAAO,EAAE,YAAY;EACtB,oBAAQ;IACP,OAAO,EAAE,YAAY;IACrB,KAAK,EAAE,sBAAoC",
+"sources": ["../sass/main.sass","../sass/partials/_settings.sass"],
+"names": [],
+"file": "main.css"
+}
